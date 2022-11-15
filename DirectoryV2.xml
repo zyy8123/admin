@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <trees>
+     <tree path="/src/assets/js/menu.js" title="查询菜单" extension="js"/>
+     <tree path="/src/assets" title="配置"/>
+     <tree path="/src/layout" title="布局"/>
+     <tree path="/src/layout/components" title="组件"/>
+     <tree path="/src/layout/components/NavBar.vue" title="导航栏" extension="vue"/>
+     <tree path="/src/layout/components/SideBar.vue" title="侧边菜单栏" extension="vue"/>
+     <tree path="/src/layout/index.vue" title="全局布局" extension="vue"/>
+     <tree path="/src/App.vue" title="主页面 *" extension="vue"/>
+     <tree path="/src/views/about" title="(系统管理)关于我"/>
+     <tree path="/src/views/album/Album.vue" title="相册页面" extension="vue"/>
+     <tree path="/src/views/album/Delete.vue" title="回收站" extension="vue"/>
+    <tree path="/src/views/album/Photo.vue" title="照片列表" extension="vue"/>
+    <tree path="/src/views/album" title="相册管理"/>
+    <tree path="/src/views/article/Article.vue" title="编辑/修改 文章" extension="vue"/>
+    <tree path="/src/views/article/ArticleList.vue" title="文章列表" extension="vue"/>
+    <tree path="/src/views/article" title="文章管理"/>
+    <tree path="/src/views/category" title="(文章管理)分类管理"/>
+    <tree path="/src/views/about/About.vue" title="关于我" extension="vue"/>
+    <tree path="/src/views/category/Category.vue" title="分类列表" extension="vue"/>
+    <tree path="/src/views/comment" title="(消息管理)评论管理"/>
+    <tree path="/src/views/comment/Comment.vue" title="评论列表" extension="vue"/>
+    <tree path="/src/views/friendLink" title="(系统管理)友链管理"/>
+    <tree path="/src/views/friendLink/FriendLink.vue" title="友链列表" extension="vue"/>
+    <tree path="/src/views/home" title="首页"/>
+    <tree path="/src/views/home/Home.vue" title="首页面" extension="vue"/>
+    <tree path="/src/views/log" title="日志管理"/>
+    <tree path="/src/views/log/Operation.vue" title="操作日志" extension="vue"/>
+    <tree path="/src/views/login" title="登录后台系统"/>
+    <tree path="/src/views/login/Login.vue" title="登录页面" extension="vue"/>
+    <tree path="/src/views/menu" title="(权限管理)菜单管理"/>
+    <tree path="/src/views/menu/Menu.vue" title="菜单列表" extension="vue"/>
+    <tree path="/src/views/message" title="(消息管理)留言管理"/>
+    <tree path="/src/views/message/Message.vue" title="留言列表" extension="vue"/>
+    <tree path="/src/views/page" title="(系统管理)页面管理"/>
+    <tree path="/src/views/page/Page.vue" title="页面列表" extension="vue"/>
+    <tree path="/src/views/resource" title="(权限管理)接口管理"/>
+    <tree path="/src/views/resource/Resource.vue" title="接口列表" extension="vue"/>
+    <tree path="/src/views/role" title="(权限管理)角色管理"/>
+    <tree path="/src/views/role/Role.vue" title="角色列表" extension="vue"/>
+    <tree path="/src/views/setting" title="个人中心"/>
+    <tree path="/src/views/setting/Setting.vue" title="个人中心页面" extension="vue"/>
+    <tree path="/src/views/tag" title="(文章管理)标签管理"/>
+    <tree path="/src/views/tag/Tag.vue" title="标签列表" extension="vue"/>
+    <tree path="/src/views/talk" title="说说管理"/>
+    <tree path="/src/views/talk/Talk.vue" title="发布说说" extension="vue"/>
+    <tree path="/src/views/talk/TalkList.vue" title="说说列表" extension="vue"/>
+    <tree path="/src/views/user" title="用户管理"/>
+    <tree path="/src/views/user/Online.vue" title="在线用户" extension="vue"/>
+    <tree path="/src/views/user/User.vue" title="用户列表" extension="vue"/>
+    <tree path="/src/views/website" title="(系统管理)网站管理"/>
+    <tree path="/src/views/website/Website.vue" title="网站管理页面" extension="vue"/>
+</trees>
